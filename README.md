@@ -19,7 +19,7 @@ $ pip3 install selenium
 PATHを通す or 通っているディレクトリへ配置。
 ```bash
 # /usr/local/binにPATHが通っていたため、その配下に配置
-$ mv {chromedriverのあるパス}/ChromeDriver /usr/local/bin/
+$ mv {chromedriverのあるパス}/chromedriver /usr/local/bin/
 
 # PATHが通っているか確認
 $ chromedriver
